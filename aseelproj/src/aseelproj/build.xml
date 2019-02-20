@@ -26,9 +26,9 @@
     <mkdir dir="${dist}/lib"/>
 <!-- خرابيشي لعند الكلين-->
   	<path id="NecessaryLibraries">
-  	        <pathelement location="./UsedLibraries/junit-4.12.jar"/>
+  	        <pathelement location="./Referenced Libraries/junit-4.12.jar"/>
   	        <!--matcher-->
-  	        <pathelement location="./UsedLibraries/hamcrest-core-1.3.jar"/>
+  	        <pathelement location="./Referenced Libraries/hamcrest-core-1.3.jar"/>
   	        <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
   	    </path>
   	    
