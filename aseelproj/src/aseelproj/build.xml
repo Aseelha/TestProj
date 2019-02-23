@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default ="compile">
 <property name="src.java.dir" location="C:\Program Files\Java\jdk1.8.0_201"/>
-<property name="src.test.dir" location="C:\Users\Rahaf\eclipse-workspace\proj3"/>
+<property name="src.test.dir" location="C:\Users\aseel\eclipse-workspace\aseelproj"/>
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
 <property name="result.testclasses.dir" location="${result.dir}/testclasses"/>
@@ -34,9 +34,9 @@
                 
             	
             	<path id="NecessaryLibraries">
-            	        <pathelement location="C:\Users\Rahaf\Desktop\New folder (2)/junit-4.12.jar"/>
+            	        <pathelement location="C:\Program Files (x86)\new_folder_for_eclipce_lib\junit-4.12.jar"/>
             	        <!--matcher-->
-            	        <pathelement location="C:\Users\Rahaf\Desktop\New folder (2)/hamcrest-core-1.3.jar"/>
+            	        <pathelement location="C:\Program Files (x86)\new_folder_for_eclipce_lib\hamcrest-core-1.3.jar"/>
             	        <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
             	    </path>
             	
